@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-BUNDLE_NAME=evo
+BUNDLE_NAME=template
 BUNDLE=$(echo $BUNDLE_NAME).app
 
 echo "Bundling $BUNDLE..."
